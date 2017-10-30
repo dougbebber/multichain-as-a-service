@@ -1,5 +1,5 @@
 # multichain-as-a-service
-Blockchain as a Service for [Multichain](https://www.multichain.com/)
+Blockchain as a Service offering for [Multichain](https://www.multichain.com/)
 
 ## Contents
 1. [Introduction](#1-Introduction)
