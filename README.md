@@ -11,7 +11,8 @@ Blockchain as a Service offering for [Multichain](https://www.multichain.com/)
 The Multichain-as-a-Service project is intended to deliver an environment that accelerates learning and prototyping with Multichain -> private, permissioned blockchains.  
 
 # 2. Architecture
-The architecture for the Multichain-as-a-Service offering consists of 2 primary components:
+The Multichain-as-a-Service project is itself, a decentralized blockchain-based architecture which
+consists of 2 primary components that transact on a specific instance of a Multichain blockchain named "lab-chain":
 1. Service
 2. Blockchain Lab
 
