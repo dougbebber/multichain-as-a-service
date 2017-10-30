@@ -7,5 +7,5 @@ Blockchain as a Service for [Multichain](https://www.multichain.com/)
 3. Install
 4. FAQ
 
-#1. Introduction
-The Multichain-as-a-Service project provides a 
+# 1. Introduction
+The Multichain-as-a-Service project is intended to deliver an environment that accelerates learning and prototyping with Multichain - private, permissioned blockchains.  
