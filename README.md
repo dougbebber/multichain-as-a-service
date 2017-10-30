@@ -8,9 +8,9 @@ Blockchain as a Service offering for [Multichain](https://www.multichain.com/)
 4. [FAQ](#4-FAQ)
 
 # 1. Introduction
-The Multichain-as-a-Service project is intended to deliver an environment that accelerates learning and prototyping with Multichain -> private, permissioned blockchains. It provides the ability to create and deploy new blockchains,and Multichain Explorers for the newly deployed blockchains in the cloud. 
+The Multichain-as-a-Service project is intended to deliver an environment that accelerates learning and prototyping with Multichain -> private, permissioned blockchains. It provides the ability to create and deploy new blockchains,along with Multichain Explorers for the newly deployed blockchains in the cloud. 
 
-New blockchains are created and deployed by sending a "createToken" to the Service. The name of the new blockchain is passed as metadata on the createToken blockchain transaction.
+New blockchains are created and deployed by sending a "createToken" to a specific Service address. The name of the new blockchain is passed as metadata on the createToken blockchain transaction.
 
 # 2. Architecture
 The Multichain-as-a-Service project is itself, a decentralized blockchain-based architecture which
